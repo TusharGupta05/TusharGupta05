@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Tushar Gupta from Indian Institute of Information Technology, Bhopal.
+I am a flutter developer and competitive programming enthusiast.
+- How to reach me: tusharg895@gmail.com
+
 
 <!--
 **TusharGupta05/TusharGupta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
