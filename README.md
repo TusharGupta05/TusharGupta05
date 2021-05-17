@@ -2,6 +2,8 @@
 I am a flutter developer and competitive programming enthusiast.
 
 [![TusharGupta05's github stats](https://github-readme-stats.vercel.app/api?username=tushargupta05)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushargupta05&count_private=true)
+
 
 
 <!--
