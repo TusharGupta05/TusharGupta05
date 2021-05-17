@@ -1,7 +1,8 @@
 ### Hi there 👋, I am Tushar Gupta from Indian Institute of Information Technology, Bhopal.
 I am a flutter developer and competitive programming enthusiast.
 
-![TusharGupta05's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushargupta05&count_private=true)
+![TusharGupta05's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushargupta05&count_private=true&show_icons=true&theme=radical)
+
 
 
 
