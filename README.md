@@ -2,7 +2,7 @@
 I am a flutter developer and competitive programming enthusiast.
 
 ![TusharGupta05's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushargupta05&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushargupta05)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushargupta05)]
 
 
 
