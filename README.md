@@ -2,7 +2,7 @@
 I am a flutter developer and competitive programming enthusiast.
 
 ![TusharGupta05's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushargupta05&layout=compact&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta05&layout=compact&langs_count=8)](https://github.com/TusharGupta05/TusharGupta05/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta05&layout=compact&langs_count=8&theme=radical)](https://github.com/TusharGupta05/TusharGupta05/blob/main/README.md)
 
 <!--
 **TusharGupta05/TusharGupta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
