@@ -5,10 +5,10 @@ I am a flutter developer and competitive programming enthusiast.
 
 
 <a href="https://github.com/TusharGupta05/TusharGupta05/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargupta05&count_private=true&show_icons=true&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tushargupta05&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/TusharGupta05/TusharGupta05/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta05&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta05&layout=compact&langs_count=8&theme=radical" />
 </a>
 
 
