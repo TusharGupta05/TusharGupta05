@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tushar Gupta from Indian Institute of Information Technology, Bhopal.
+### Hi there, I am Tushar Gupta from Indian Institute of Information Technology, Bhopal.
 I am a flutter developer and competitive programming enthusiast.
 
 
