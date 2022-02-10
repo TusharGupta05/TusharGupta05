@@ -1,5 +1,5 @@
-### Hi there, I am Tushar Gupta from Indian Institute of Information Technology, Bhopal.
-I am a flutter developer and competitive programming enthusiast.
+### Hi there, I am Tushar Gupta, a pre-final year undergraduate student from Indian Institute of Information Technology, Bhopal.
+I am a flutter and competitive programming enthusiast.
 
 
 
