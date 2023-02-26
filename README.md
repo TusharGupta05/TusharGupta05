@@ -1,5 +1,4 @@
 ### Hi there! I am Tushar, a final year undergraduate student from Indian Institute of Information Technology, Bhopal.
-I am a flutter and competitive programming enthusiast.
 
 
 
